@@ -1,2 +1,1 @@
-# Curso-Serfrontend-Landing-Page
-Curso Serfrontend - Landing page com imagem animado
+Este projeto de landing page foi feito durante o curso SER FRONTEND para praticar o conteúdo de animações. Consite em uma landing page de emojis que possui figuras de emojis que são animadas na tela. O projeto original foi feito pelo Daniel Tapias, o professor do curso. Neste repositório há a minha versão do código.
